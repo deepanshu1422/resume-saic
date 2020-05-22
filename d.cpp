@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 ////////
-//2*10
+//2*10////
 int i=0;
 int res=0;
 int ddc(int a,int d)
