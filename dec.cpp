@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //..
-int i=0;
+//int i=0;
 int a[30];
 int ddc(int a[])
 {
